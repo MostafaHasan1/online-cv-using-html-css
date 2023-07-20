@@ -1,0 +1,34 @@
+<img src="images/Hasan.png" alt="My test image" width="120" height="150.25"/><br>
+    <b><font face = "Times New Roman" size = "4">MOSTAFA HASAN</font></br></b><br>
+    
+    <font face = "Calibri" size = "3">Road No 07, Block C</font></br>
+    <font face = "Calibri" size = "3">Bashundhara r/a, Dhaka 1229</font></br>
+    <font face = "Calibri" size = "3">+880 1644-043341</font></br>
+    <a href="https://www.facebook.com/mostaafahasan/"><font face = "Calibri" size = "3"></font>Facebook</a><br>
+    <a href="https://www.linkedin.com/in/mostafa-hasan-912276234/"><font face = "Calibri" size = "3">LinkedIn</font></a><br><br>
+    
+    <b><font face = "Times New Roman" size = "4">CAREER OBJECTIVE</font></b><br>
+    <font face = "Calibri" size = "3">Dedicated computer science student with a strong command of Python and proficiency in Visual Studio Code, seeking a role as an entry-level software developer at Amazon. Eager to bring my ability to develop, test, and manitain software to a dynamic team that values innovation.</font></br><br>
+    
+    <b><font face = "Times New Roman" size = "4">EDUCATION</font></b></br>
+    <font face = "Calibri" size = "3">B.Sc. in<br>Computer Science and Engineering<br>Independent University Bangladesh<br>January 2020 - current</font></br><br>
+    
+    <b><font face = "Times New Roman" size = "4">PROJECTS</font></b></br>
+    <font face = "Calibri" size = "3">Digital Land Registration Bangladesh</font></br>
+    <b><font face = "Calibri" size = "3">Desktop Application Software</font></b></br>
+    <ul>
+        <li>We build this project by using Java programming language with FXML.</li>
+        <li>The objective of our gorup project was to transfer the traditional land registration process into a completely online system.</li>
+        <li>Our group consisted of three members, each bringing unique skills and expertise.</li>
+    </ul><br>
+    
+    <b><font face = "Times New Roman" size = "4">SKILLS</font></b></br>
+    <ul>
+        <li>Python</li>
+        <li>C++</li>
+        <li>Java</li>
+        <li>Visual Studio Code</li>
+    </ul><br>
+    <form action="https://images01.nicepagecdn.com/page/47/41/website-template-preview-474176.jpg">
+      <input type="submit" value="Submit">
+    </form>
